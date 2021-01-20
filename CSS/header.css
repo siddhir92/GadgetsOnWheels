@@ -1,0 +1,145 @@
+h1{
+  padding-top: 45px;
+}
+
+li a:hover {
+    background-color: #333;
+  }
+  .btn-warning {
+    position: absolute;
+    right: 10px;
+    top: 75px;
+  }
+  .btn-danger {
+    position: absolute;
+    right: 150px;
+    top: 75px;
+  }
+  #logo-img {
+      margin-right:25px;
+  }
+  .page-header{
+    height: 100px;
+    background-color: #3366FF;
+    padding-top: 10px;
+  }
+
+  .box{
+    box-model: border-box;
+    border: 3px solid transparent;
+    background-clip:padding-box;
+    transition: transform 0.3s;
+    text-decoration: none;
+  }
+  .image:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.2);
+  }
+  .image {
+    height: 100px;
+    width: 150px;
+    margin: 10px;
+    margin-bottom: 35px;
+  }
+  #text {
+    color: black;
+    font-family: cursive;
+  }
+  .container .row{
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  #name{
+    font-size: 20px;
+  }
+  body {margin:0;}
+  .navba {
+    z-index: 9999;
+  }
+  .navba {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .navba a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navba a:hover {
+    background: #ddd;
+    color: black;
+  }
+
+  .main {
+    padding: 16px;
+    margin-top: 50px;
+  }
+
+  #cat{
+    font-size: 25px;
+  }
+  .sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 50px;
+  }
+
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #818181;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+    text-decoration: none;
+  }
+
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  p{
+    font-size: 15px;
+  }
+  h1{
+    text-align: center;
+  }
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  .button {
+      border: none;
+      color: white;
+      padding: 5px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: #A41D00;
+
+    }

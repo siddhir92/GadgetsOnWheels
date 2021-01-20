@@ -1,0 +1,23 @@
+.card-img-top{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 25px ;
+
+ }
+
+ .card-footer, .p-1{
+     text-align: center;
+    margin: auto;
+ }
+ .card-body, .p-1{
+     text-align: center;
+ }
+
+.form-control.pqty{
+   margin-bottom:15px;
+   text-align: center;
+
+}
+.row, .p-2{
+    text-align: center;
+}

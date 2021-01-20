@@ -1,0 +1,35 @@
+.prod{
+  font-size: 2em;
+  justify-content: center;
+  color: solid black;
+  margin-top: 5px;
+}
+.num{
+  font-size: 50px;
+  color: white;
+}
+.col-md-4 {
+  flex-basis: 30%;
+  width: 400px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  box-shadow: 5px 10px 18px black;
+  transition: transform 0.5s;
+  background-color: #C32148;
+  height: 150px;
+  border-radius: 10px;
+}
+.col-md-4:hover {
+  transform: translateY(-7px);
+}
+.contain{
+  margin: auto;
+  padding-left: 250px;
+}
+body{
+  background-color: #FFCC33  !important;
+  background-size: cover;
+}
+#dash{
+  font-family:  Arial, Helvetica, sans-serif;
+}
