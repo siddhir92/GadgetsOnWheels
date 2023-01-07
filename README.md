@@ -1,5 +1,12 @@
 # GadgetsOnWheels
 This project is a electronic rental system where you can rent latest devices from various categories and also keep track on the orders by login in as an admin, The tech stack used is HTML,CSS, Bootstrap, MySQL, Ajax and PHP. 
+ER DIAGRAM:
+
+![image](https://user-images.githubusercontent.com/64797270/211154026-a4d26f9a-2a63-4459-bd6a-3b85c50d3545.png)
+
+SCHEMA DIAGRAM :
+
+![image](https://user-images.githubusercontent.com/64797270/211154176-064bf500-4256-432b-929b-ef24393635f5.png)
 
 
 Project Images:
