@@ -1,5 +1,11 @@
 # GadgetsOnWheels
 This project is a electronic rental system where you can rent latest devices from various categories and also keep track on the orders by login in as an admin, The tech stack used is HTML,CSS, Bootstrap, MySQL, Ajax and PHP. 
+### Abstract :
+
+- Gadgets On Wheels is a renting application where customers can rent electronic devices of their choice from various available product categories like mobiles, cameras, laptops, headphones, speakers, etc. The purpose of this project is to provide a one stop solution to try out new technology before Purchasing it, renting would provide customer an experience with the device first and he/she could later choose to buy it permanently.
+- This Facility allows the customers to rent products on affordable monthly fees and return it back after their use. Customers get the privilege to rent out best and latest products available in the market. This allows the customer to try out new technology and new models at a lower price hence saving his pocket. Each Product available is provided with an appropriate description and specifications to choose from. It allows more mobility of various gadgets and rents only the product when needed and time flexibility of his choice.
+- The organization can maintain computerized records without redundant entries. That means that one need not be distracted by information that is not relevant, while being able to reach the information. The admin also keeps logs of all the orders and returns that take place. Basically the project describes how to manage for good performance and better services for the clients.
+- A database of the above also stores information of the user who have already rented the products and also shares their experience as feedback
 ER DIAGRAM:
 
 ![image](https://user-images.githubusercontent.com/64797270/211154026-a4d26f9a-2a63-4459-bd6a-3b85c50d3545.png)
